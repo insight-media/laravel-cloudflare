@@ -1,5 +1,5 @@
 {
-  "name": "suitmedia/laravel-cloudflare",
+  "name": "insight-media/laravel-cloudflare",
   "description": "Simple and easy cloudflare cache purging in Laravel",
   "type": "library",
   "license": "MIT",
